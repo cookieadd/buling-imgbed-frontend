@@ -32,9 +32,7 @@
       <div class="container footer-content">
         <p class="copyright">© {{ currentYear }} Cookie🍪图床 · 简单好用的图床服务 </p>
         <p class="copyright">❤️ Made with <a href="https://anuuu.com" target="_blank" rel="noopener"
-            class="footer-link">Anuuu.com</a> ·
-          <a href="https://github.com/wzs8/buling-imgbed" target="_blank" rel="noopener" class="footer-link">GitHub</a> ·
-          <a href="https://anuuu.com/buling-imgbed.html" rel="noopener" class="footer-link" target="_blank">使用教程</a>
+            class="footer-link">Anuuu.com</a>
         </p>
       </div>
     </footer>
