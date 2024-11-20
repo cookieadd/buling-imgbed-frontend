@@ -8,7 +8,6 @@
         <img src="/logo.png" alt="布灵图床logo" />
       </div>
     </div>
-
     <div class="features">
       <div class="feature-card card">
         <h3>👑 私有化图床</h3>
